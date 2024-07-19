@@ -1,4 +1,4 @@
-- 👋 Hi, I’m James Bryant
+- 👋 Hello! I’m James Bryant
 - 👀 I am interested in Technology and Computer Science.
 - 🌱 I have completed the [Udacity](http://udacity.com) Business Analytics Nanaodegree program.
 - 🌱 I am currently learning in the [Udacity](http://udacity.com) Front End Web Design program.
